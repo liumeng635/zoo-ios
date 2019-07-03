@@ -1,0 +1,145 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AMPopTip (4.0.1)
+  - CropViewController (2.4.0)
+  - FDFullscreenPopGesture (1.1)
+  - HandyJSON (5.0.0-beta.1)
+  - HappyDNS (0.3.15)
+  - IQKeyboardManagerSwift (6.2.1)
+  - JXPhotoBrowser (2.1.4):
+    - JXPhotoBrowser/Kingfisher (= 2.1.4)
+  - JXPhotoBrowser/Core (2.1.4)
+  - JXPhotoBrowser/Kingfisher (2.1.4):
+    - JXPhotoBrowser/Core
+    - Kingfisher
+  - Kingfisher (4.10.1)
+  - KingfisherWebP (0.4.2):
+    - Kingfisher (~> 4.0)
+    - libwebp (>= 0.5.0)
+  - libwebp (1.0.2):
+    - libwebp/core (= 1.0.2)
+    - libwebp/dec (= 1.0.2)
+    - libwebp/demux (= 1.0.2)
+    - libwebp/dsp (= 1.0.2)
+    - libwebp/enc (= 1.0.2)
+    - libwebp/mux (= 1.0.2)
+    - libwebp/utils (= 1.0.2)
+    - libwebp/webp (= 1.0.2)
+  - libwebp/core (1.0.2):
+    - libwebp/webp
+  - libwebp/dec (1.0.2):
+    - libwebp/core
+  - libwebp/demux (1.0.2):
+    - libwebp/core
+  - libwebp/dsp (1.0.2):
+    - libwebp/core
+  - libwebp/enc (1.0.2):
+    - libwebp/core
+  - libwebp/mux (1.0.2):
+    - libwebp/core
+  - libwebp/utils (1.0.2):
+    - libwebp/core
+  - libwebp/webp (1.0.2)
+  - MBProgressHUD (1.1.0)
+  - MJRefresh (3.1.15.7)
+  - Protobuf (3.7.0)
+  - Qiniu (7.2.5):
+    - HappyDNS (~> 0.3)
+  - SnapKit (4.2.0)
+  - SSZipArchive (2.2.1)
+  - SVGAPlayer (2.3.3):
+    - SVGAPlayer/Core (= 2.3.3)
+    - SVGAPlayer/ProtoFiles (= 2.3.3)
+  - SVGAPlayer/Core (2.3.3):
+    - SSZipArchive (>= 1.8.1)
+    - SVGAPlayer/ProtoFiles
+  - SVGAPlayer/ProtoFiles (2.3.3):
+    - Protobuf (~> 3.4)
+  - SwiftyJSON (4.3.0)
+  - TransitionButton (0.5.2)
+  - UMengAnalytics (4.2.4)
+  - UMengUShare/Core (6.4.8.2):
+    - UMengUShare/Network
+  - UMengUShare/Network (6.4.8.2)
+  - UMengUShare/Social/ReducedQQ (6.4.8.2):
+    - UMengUShare/Core
+  - UMengUShare/Social/ReducedWeChat (6.4.8.2):
+    - UMengUShare/Core
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.2)
+  - AMPopTip
+  - CropViewController (~> 2.4.0)
+  - FDFullscreenPopGesture (~> 1.1)
+  - HandyJSON (~> 5.0.0-beta.1)
+  - IQKeyboardManagerSwift (~> 6.2.1)
+  - JXPhotoBrowser
+  - Kingfisher (~> 4.10.1)
+  - KingfisherWebP
+  - MBProgressHUD (~> 1.1.0)
+  - MJRefresh (~> 3.1.15.7)
+  - Qiniu (~> 7.2.5)
+  - SnapKit (~> 4.2.0)
+  - SVGAPlayer (~> 2.3)
+  - SwiftyJSON (~> 4.3)
+  - TransitionButton
+  - UMengAnalytics (~> 4.2.4)
+  - UMengUShare/Social/ReducedQQ (~> 6.4.8.2)
+  - UMengUShare/Social/ReducedWeChat (~> 6.4.8.2)
+  - YYText (~> 1.0.7)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AMPopTip
+    - CropViewController
+    - FDFullscreenPopGesture
+    - HandyJSON
+    - HappyDNS
+    - IQKeyboardManagerSwift
+    - JXPhotoBrowser
+    - Kingfisher
+    - KingfisherWebP
+    - libwebp
+    - MBProgressHUD
+    - MJRefresh
+    - Protobuf
+    - Qiniu
+    - SnapKit
+    - SSZipArchive
+    - SVGAPlayer
+    - SwiftyJSON
+    - TransitionButton
+    - UMengAnalytics
+    - UMengUShare
+    - YYText
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AMPopTip: 41742f15d743203496cfdcd576f41b596b0efae3
+  CropViewController: a090820b15fc3da68e694d7c192a4708c576828b
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  HandyJSON: 582477127ab3ab65bd2e471815f1a7b846856978
+  HappyDNS: 00c15e651a347206e58a20503a32a5564589b56a
+  IQKeyboardManagerSwift: 0f0ae8935360b4003e6ea1ac7c19898f01e2f7c7
+  JXPhotoBrowser: 12f72156f34bc7f49e2d22bb20259b0f1b5c2076
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  KingfisherWebP: 53632f3da248ccabd4999d775903d6ae0aaa7768
+  libwebp: 10b2bf3c62bfa28046ff701771c9a75a7683d49b
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  Protobuf: 7a877b7f3e5964e3fce995e2eb323dbc6831bb5a
+  Qiniu: 909b408ee489ea54827e9717be90b94bc9dfbc48
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SSZipArchive: 8e859da2520142e09166bc9161967db296e9d02f
+  SVGAPlayer: cf93c1761209c478003951fa23376e7ed7dedc96
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  TransitionButton: fb271583d9c9e4bb116b97103047e5157653f233
+  UMengAnalytics: ef8d45f94c0e5771dc364cf6a5731d9d3b101da2
+  UMengUShare: 370d180101e13ee0227ae657ab119ba97243d2b3
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 1299fd7afeda95692196457afef23086245fb9e8
+
+COCOAPODS: 1.7.1
